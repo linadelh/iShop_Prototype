@@ -19,7 +19,7 @@ It simulates core online store interactions but is purely frontend no backend or
 - **Color selection**  
   Switch between iPhone colors, updating product images and backgrounds dynamically.
 
- <img src="iphone1.png" alt="iPhone" width="480" /> 
+ <img src="FRONTEND/iphone1.png" alt="iPhone" width="480" /> 
  <img src="iphone2.png" alt="iPhone" width="480" /> 
 
 - **Shopping cart**  
