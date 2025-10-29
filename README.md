@@ -1,4 +1,4 @@
-# Mini Frontend E-Commerce for iPhones
+# Frontend E-Commerce Prototype
 
 ## Overview
 
